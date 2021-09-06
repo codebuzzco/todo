@@ -1,6 +1,6 @@
 # Todo
 
-A simple react todo app with a fresh user interface. 
+A simple react to do app with a fresh user interface. 
 
 ### Dependencies
 
